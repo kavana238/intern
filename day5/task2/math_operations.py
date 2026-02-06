@@ -1,0 +1,8 @@
+def power(base, exponent):
+    return base ** exponent
+
+
+def average(numbers_list):
+    return sum(numbers_list) / len(numbers_list)
+
+   
