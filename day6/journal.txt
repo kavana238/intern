@@ -1,0 +1,3 @@
+name: ram,daily_task: reading book
+name: sita,daily_task: dancing
+name: gita,daily_task: singing
